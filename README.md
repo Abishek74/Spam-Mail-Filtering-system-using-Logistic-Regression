@@ -6,8 +6,5 @@ Text data cleaning and preprocessing
 
 TF-IDF vectorization
 
-Model training with Multinomial Naive Bayes
-
 Evaluation using accuracy score, confusion matrix
 
-Spam prediction on new input
